@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Bianca Colombo | Dentista em Araras",
+  "description": "Agende sua primeira consulta de avaliação de ortodontia e estética dental em Araras, SP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
